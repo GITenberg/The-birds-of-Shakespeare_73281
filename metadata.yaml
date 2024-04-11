@@ -1,0 +1,34 @@
+_repo: The-birds-of-Shakespeare_73281
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Geikie, Archibald
+    aliases:
+    - Geikie, A. (Archibald)
+    - Geikie, Sir Archibald
+    birthdate: 1835
+    deathdate: 1924
+    gutenberg_agent_id: '52267'
+    url: http://www.gutenberg.org/2009/agents/52267
+    wikipedia: https://en.wikipedia.org/wiki/Archibald_Geikie
+description: ''
+gutenberg_issued: '2024-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73281'
+language: en
+pgterms:marc904: https://archive.org/details/birdsofshakespea00geik/mode/2up
+pgterms:marc905: 20240127094854geikie
+pgterms:marc906: '1916'
+pgterms:marc907: GB
+production_note: Carol Brown, Susan E. and the Online Distributed Proofreading Team
+  at https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: '  $aGlasgow :$bJames Maclehose and sons, $c1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The birds of Shakespeare
+url: http://www.gutenberg.org/ebooks/73281
