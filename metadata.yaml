@@ -1,5 +1,8 @@
 _repo: The-birds-of-Shakespeare_73281
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73281-h/images/cover.jpg
 creator:
   author:
     agent_name: Geikie, Archibald
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52267
     wikipedia: https://en.wikipedia.org/wiki/Archibald_Geikie
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73281#The-birds-of-Shakespeare
 gutenberg_issued: '2024-03-29'
 gutenberg_type: Text
 identifiers:
